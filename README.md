@@ -4,6 +4,7 @@ La garantia que le ofrecemos a nuestros clientes es: Probar cualquier juego que 
 Desde nuestro punto de vista , lo que nos diferenciaria de los demas es darle a nuestros clientes una garantia de probar nuestras propias PS/PC , es decir nuestras intalaciones con los juegos que elijan nuestros propios clientes al cruzar la puerta. Si les gusta el juego darles la oportunidad de que los prueben en sus PS/PC y ver que no tengan ningun problema, asi mismo en la sucursar mas cercana, realizar torneos , competiciones los cuales tienen un premio que poueden ser 1/2 juegos a elección y alguna PS/PC. Tambien unas de nuesras mayores inversiones y la cual costo mucho conseguir es una vacante en cada año para un Gamer en nuestro equipo de competición. 
 
 #Wireframes.md
+
 https://www.figma.com/file/OQOfF7jaIKXHSElGqT59wA/Untitled
 
 https://www.figma.com/file/KbaNPNl6zJNue8vvAKO91w/Untitled
