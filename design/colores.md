@@ -1,3 +1,4 @@
 # colores
-
-Uno de los colores que eligiriamos seria el blanco para la pagina principal y Violeta; o nuestra segunda opción puede ser Negro y Rojo.
+#153C38 (verde agua oscuro)
+#A8E6CF (verde agua claro
+#BF261A (rojo anaranjado)
