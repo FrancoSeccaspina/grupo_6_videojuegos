@@ -1,2 +1,4 @@
-# wireframes
-![image](https://user-images.githubusercontent.com/102187308/176254112-5a299284-4ee8-4eee-98d7-3574409089c9.png)
+
+https://www.figma.com/file/OQOfF7jaIKXHSElGqT59wA/Untitled
+
+https://www.figma.com/file/KbaNPNl6zJNue8vvAKO91w/Untitled
